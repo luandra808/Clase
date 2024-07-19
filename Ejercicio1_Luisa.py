@@ -1,0 +1,6 @@
+Nombre=input("Ingrese su nombre: ")
+Edad=input("Ingrese su edad: ")
+print(f"Bienvenido {Nombre}{Edad}")
+Num=float(input("Ingrese un número: "))
+Operacion=2*int(Num)
+print(Operacion)
